@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-29T19:43:53 IST" name="DevOps App Test Suite" finished-at="2026-03-29T19:43:53 IST" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2026-03-29T19:43:53 IST" name="Application Tests" finished-at="2026-03-29T19:43:53 IST" duration-ms="33">
+      <class name="com.example.AppTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.example.AppTest@5c1a8622]" started-at="2026-03-29T19:43:53 IST" name="setup" finished-at="2026-03-29T19:43:53 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testApplicationStartup()[pri:1, instance:com.example.AppTest@5c1a8622]" started-at="2026-03-29T19:43:53 IST" name="testApplicationStartup" finished-at="2026-03-29T19:43:53 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApplicationStartup -->
+        <test-method signature="testServletPath()[pri:2, instance:com.example.AppTest@5c1a8622]" started-at="2026-03-29T19:43:53 IST" name="testServletPath" finished-at="2026-03-29T19:43:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testServletPath -->
+        <test-method signature="testResponseContent()[pri:3, instance:com.example.AppTest@5c1a8622]" started-at="2026-03-29T19:43:53 IST" name="testResponseContent" finished-at="2026-03-29T19:43:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseContent -->
+        <test-method signature="testAppVersion()[pri:4, instance:com.example.AppTest@5c1a8622]" started-at="2026-03-29T19:43:53 IST" name="testAppVersion" finished-at="2026-03-29T19:43:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAppVersion -->
+        <test-method signature="testBusinessLogic()[pri:5, instance:com.example.AppTest@5c1a8622]" started-at="2026-03-29T19:43:53 IST" name="testBusinessLogic" finished-at="2026-03-29T19:43:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBusinessLogic -->
+        <test-method signature="testStringValidation()[pri:6, instance:com.example.AppTest@5c1a8622]" started-at="2026-03-29T19:43:53 IST" name="testStringValidation" finished-at="2026-03-29T19:43:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStringValidation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.example.AppTest@5c1a8622]" started-at="2026-03-29T19:43:53 IST" name="teardown" finished-at="2026-03-29T19:43:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.example.AppTest -->
+    </test> <!-- Application Tests -->
+  </suite> <!-- DevOps App Test Suite -->
+</testng-results>
